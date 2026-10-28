@@ -1,11 +1,12 @@
 **Pre-alpha. Puede tener fallos.**
 
 ### Novedades
-- Nuevo **modo bomba en la Favela**: rondas sin reaparecer y dos sitios, la cancha (A) y la iglesia (B). La favela sube en cuesta y hay tres rutas: Escadão, Beco y Ladeira, más una azotea.
-- Bots más listos: los policías defienden sus puestos a cubierto y los terroristas se agrupan y entran a la vez.
-- Botón para plantar y desactivar la bomba.
-- Control opcional con la cabeza (cámara frontal) y órdenes de voz con tus propios sonidos, con un asistente de calibración.
-- Salto con un tirón del móvil y recarga empujándolo hacia delante.
+- **Menú nuevo:** JUGAR abre «Elige modo» con tarjetas para Bomba, Policías vs Terroristas y Sala de pruebas.
+- **Sala de espera del modo Bomba**, con el mapa de la Favela visto desde arriba, los equipos, el bando, la dificultad y las rondas.
+- **Bomba 5 contra 5**, además de 3 vs 3 y 4 vs 4.
+- **Sensibilidad del espejo** y **velocidad de giro del espejo**, ajustables en Ajustes → Controles y Ajustes → Espejo.
+- En el modo bomba desaparecen los botones del movimiento fijado (invertir, parar, soltar y candado).
+- Cada bando empieza la ronda mirando hacia sus rutas.
 
 ### Instalar
-Descarga `ProjectBackfire-v0.24.0-prealpha.apk` en **Assets** y sigue los pasos del README.
+Descarga el `.apk` de aquí abajo e instálalo encima de la versión anterior (no hace falta desinstalar). Pasos en el README.
