@@ -1,12 +1,7 @@
-**Pre-alpha. Puede tener fallos.**
+**BACKFIRE v0.27.0 · pre-alpha**
 
-### Novedades
-- **Menú nuevo:** JUGAR abre «Elige modo» con tarjetas para Bomba, Policías vs Terroristas y Sala de pruebas.
-- **Sala de espera del modo Bomba**, con el mapa de la Favela visto desde arriba, los equipos, el bando, la dificultad y las rondas.
-- **Bomba 5 contra 5**, además de 3 vs 3 y 4 vs 4.
-- **Sensibilidad del espejo** y **velocidad de giro del espejo**, ajustables en Ajustes → Controles y Ajustes → Espejo.
-- En el modo bomba desaparecen los botones del movimiento fijado (invertir, parar, soltar y candado).
-- Cada bando empieza la ronda mirando hacia sus rutas.
+- Ahora también se instala en móviles con Android de 32 bits (p. ej. Samsung J7).
+- Requiere Android 7.0 o superior.
+- El APK pesa más porque incluye las versiones de 32 y 64 bits.
 
-### Instalar
-Descarga el `.apk` de aquí abajo e instálalo encima de la versión anterior (no hace falta desinstalar). Pasos en el README.
+Instalación: descarga `ProjectBackfire-v0.27.0-prealpha.apk`, ábrelo en el móvil y permite instalar apps de origen desconocido.
