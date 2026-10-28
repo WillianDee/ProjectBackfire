@@ -9,11 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Unir APK
+      - name: Unir archivos
         run: |
           F=$(sed -n 2p rel/meta)
           cat rel/apk.part* > "$F"
           echo "$(cat rel/sha256)  $F" | sha256sum -c -
+          P=$(sed -n 4p rel/meta)
+          if [ -n "$P" ]; then
+            cat rel/pc.part* > "$P"
+            echo "$(cat rel/sha256_pc)  $P" | sha256sum -c -
+          fi
       - name: Publicar release
         env:
           GH_TOKEN: ${{ github.token }}
@@ -21,4 +26,5 @@ jobs:
           V=$(sed -n 1p rel/meta)
           F=$(sed -n 2p rel/meta)
           T=$(sed -n 3p rel/meta)
-          gh release create "$V" "$F" --repo "$GITHUB_REPOSITORY" --target main --title "$T" --notes-file rel/notes.md --latest
+          P=$(sed -n 4p rel/meta)
+          gh release create "$V" "$F" $P --repo "$GITHUB_REPOSITORY" --target main --title "$T" --notes-file rel/notes.md --latest
