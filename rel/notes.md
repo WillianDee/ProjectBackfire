@@ -1,8 +1,7 @@
-**BACKFIRE v0.36.0 · pre-alpha**
+**BACKFIRE v0.36.1 · pre-alpha**
 
-Descargas: `ProjectBackfire-v0.36.0-prealpha.apk` (Android 7.0+) y `ProjectBackfire-v0.36.0-prealpha-Windows.zip` (PC, abre `BACKFIRE.exe`).
+Descargas: `ProjectBackfire-v0.36.1-prealpha.apk` (Android 7.0+) y `ProjectBackfire-v0.36.1-prealpha-Windows.zip` (PC, abre `BACKFIRE.exe`).
 
-**Pantalla completa en PC**
-- En Windows el juego arranca en pantalla completa.
-- Ajustes → Gráficos → Pantalla: Ventana, Completa (recomendada) o Completa exclusiva (algún FPS más, pero Alt+Tab va más lento).
-- Atajo en cualquier momento: **F11** o **Alt+Intro**.
+- **Botones de volumen arreglados:** ahora sí disparan y no sale la ventana de volumen del sistema durante la partida.
+- **Trackpad: toques seguidos para girar rápido.** Toques rápidos en un lado del espejo giran la vista hacia ese lado; cada toque seguido gira más.
+- **Giroscopio desactivado por defecto** (también en las instalaciones que ya lo tenían). Se activa en Ajustes → Sensores.
