@@ -36,7 +36,7 @@ En **Assets** encontrarás:
 - **Opcionales:** gestos con el móvil, giroscopio, control con la cabeza y órdenes de voz.
 
 ### PC (teclado y ratón)
-`WASD` moverse · ratón mirar · clic disparar · clic derecho apuntar · `R` recargar · `Espacio` saltar · `Ctrl`/`C` agacharse · `Shift` andar despacio (cadera) o esprintar (hombro) · `E` bomba · `G` agarre · rueda/`Q` arma · `Esc` ajustes
+`WASD` moverse · ratón mirar · clic disparar · clic derecho apuntar · `R` recargar · `Espacio` saltar · `Ctrl`/`C` agacharse · `Shift` andar despacio (cadera) o esprintar (hombro) · `E` bomba · `F` pegarse a la pared (hombro) · `G` agarre · rueda/`Q` arma · `Esc` ajustes
 
 ### Mando (Bluetooth o cable, en móvil y PC)
 Se detecta solo al conectarlo y pulsar un botón. Botones por defecto (reasignables en **Ajustes → Mando**):
@@ -48,7 +48,8 @@ Se detecta solo al conectarlo y pulsar un botón. Botones por defecto (reasignab
 | Saltar / agacharse | A (Cruz) / B (Círculo) |
 | Recargar / cambiar arma | X (Cuadrado) / Y (Triángulo) |
 | Cambiar agarre / bomba | LB (L1) / RB (R1) |
-| Esprintar o andar despacio | L3 |
+| Correr (hombro, un toque) o andar despacio (cadera) | L3 |
+| Pegarse a la pared (hombro); apuntar para asomarse | R3 |
 | Ajustes | Start (Options) |
 
 En los menús: cruceta para moverte, **A** aceptar, **B** volver.
