@@ -1,10 +1,10 @@
-**BACKFIRE v0.37.0 · pre-alpha**
+**BACKFIRE v0.38.0 · pre-alpha**
 
-Descargas: `ProjectBackfire-v0.37.0-prealpha.apk` (Android 7.0+) y `ProjectBackfire-v0.37.0-prealpha-Windows.zip` (PC, abre `BACKFIRE.exe`).
+Descargas: `ProjectBackfire-v0.38.0-prealpha.apk` (Android 7.0+) y `ProjectBackfire-v0.38.0-prealpha-Windows.zip` (PC, abre `BACKFIRE.exe`).
 
-**Compatibilidad con mando (Bluetooth o cable, en Android y PC)**
-- Se detecta solo: conecta el mando y pulsa cualquier botón. Aparece un aviso con su nombre y se ocultan los controles táctiles. Toca la pantalla o usa teclado/ratón para volver.
-- Stick izquierdo moverse (al tope corres, poco andas despacio), stick derecho mirar.
-- Por defecto: RT disparar · LT apuntar · A saltar · B agacharse/deslizarse · X recargar · Y cambiar arma · LB agarre · RB bomba · L3 esprintar/andar despacio · Start ajustes.
-- **Ajustes → Mando:** mandos detectados, sensibilidad del stick, zona muerta, invertir eje y **reasignar cualquier botón** (incluidos gatillos). Botón para restaurar.
-- Menús navegables con el mando: cruceta para moverte, A aceptar, B volver.
+**Novedades con mando (solo en agarre de hombro / COD)**
+- **L3 (pulsar stick izquierdo): correr.** Un toque y sigues corriendo mientras empujes el stick; se corta al soltar el stick, ir hacia atrás o quedarte sin aliento. En agarre de cadera L3 sigue siendo andar despacio.
+- **R3 (pulsar stick derecho): pegarse a la pared.** Acércate a un muro (a poco más de un metro) y pulsa R3. Te deslizas pegado a la pared y te paras en los bordes. Para soltarte: R3 otra vez, saltar, deslizarte o empujar el stick lejos del muro.
+- **Asomarse apuntando.** Pegado a un muro bajo, te quedas agachado detrás; al apuntar te asomas por encima. Pegado a un muro alto, junto a una esquina o un borde abierto, al apuntar asomas la cabeza por ese lado. Al dejar de apuntar vuelves a cubrirte. Los enemigos solo te ven lo que asomas.
+- En PC: **F** para pegarse a la pared (agarre de hombro).
+- Las dos acciones se pueden reasignar en Ajustes → Mando.
