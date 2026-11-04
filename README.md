@@ -12,6 +12,7 @@ En **Assets** encontrarás:
 - `ProjectBackfire-…-prealpha.apk` → **Android** 7.0 o superior (32 y 64 bits).
 - `ProjectBackfire-…-prealpha-Windows.zip` → **PC con Windows** (64 bits).
 - `ProjectBackfire-…-prealpha-Quest.apk` → **Meta Quest** (versión de pruebas en realidad virtual).
+- **BackTrack VR Móvil APK** (`BackTrack-VR-Movil.apk`) → app para el **móvil**: lo llevas en el bolsillo y manda tus pasos al modo VR.
 
 Desde la v0.40 el juego **avisa solo cuando hay una versión nueva** y te deja descargarla desde el menú.
 
@@ -28,8 +29,12 @@ Desde la v0.40 el juego **avisa solo cuando hay una versión nueva** y te deja d
 1. Instala `ProjectBackfire-…-Quest.apk` con SideQuest o con `adb install`.
 2. Ábrelo desde **Biblioteca → Orígenes desconocidos**.
 
+### BackTrack (móvil para el modo VR)
+1. Descarga `BackTrack-VR-Movil.apk` en tu móvil Android e instálalo igual que el juego.
+2. Ábrelo, guárdate el móvil en el bolsillo y juega en las gafas: tus pasos mueven al personaje.
+
 ### Windows
-1. Descarga el `.zip`, descomprímelo y abre `BACKFIRE.exe` (deja el `.dll` en la misma carpeta).
+1. Descarga el `.zip`, descomprímelo y abre `BACKFIRE.exe`.
 2. Si Windows avisa de una app desconocida: **Más información → Ejecutar de todas formas**.
 3. Arranca en pantalla completa; **F11** o **Alt+Intro** cambia a ventana.
 
